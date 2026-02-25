@@ -23,7 +23,7 @@ Este proyecto combina **Computer Vision**, **Procesamiento de Lenguaje Natural (
 | **Brand Recognition** | OCR (Google Vision) | Leer etiquetas y nombres específicos de productos. |
 | **Text Normalization** | LLM (OpenAI/Gemini) | Mapear texto de etiquetas a ingredientes base (limpieza). |
 | **Database** | SQLite | Almacenar inventario, fechas de entrada y estado. |
-| **Recommendation** | Spoonacular API | Motor de búsqueda de recetas basado en ingredientes. |
+| **Recommendation** | TBD API | Motor de búsqueda de recetas basado en ingredientes. |
 | **Environment** | Google Colab | Entorno de desarrollo colaborativo. |
 
 ---
@@ -32,7 +32,7 @@ Este proyecto combina **Computer Vision**, **Procesamiento de Lenguaje Natural (
 
 ### 1. Requisitos / Prerequisites
 * Cuenta de **Google Cloud** con la Vision API habilitada.
-* API Key de **Spoonacular**.
+* API Key de **TBD**.
 * Cuenta de **Kaggle** (para descargar datasets).
 
 ### 2. Configuración / Configuration
