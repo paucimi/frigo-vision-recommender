@@ -1,0 +1,36 @@
+{
+    "query": "tomato, cheese, lettuce, potatoes, rice",
+    "total_results": 5,
+    "recipes": [
+        {
+            "title": "Tomato Slaw",
+            "directions": "[\"Cut lettuce into small pieces.\", \"Cut tomato into cube.\", \"Add mayonnaise, mix well.\", \"Chill until ready to eat.\"]",
+            "link": "www.cookbooks.com/Recipe-Details.aspx?id=389330",
+            "similarity_score": 0.632361650466919
+        },
+        {
+            "title": "B L T Potato Bites Recipe",
+            "directions": "[\"Halve potatoes.\", \"With melon baller, scoop out cavities from cut sides of potatoes (reserve pulp for another use).\", \"Fill potatoes with cottage cheese, lettuce, bacon, and tomato, dividing equally.\", \"Sprinkle with salt and pepper.\"]",
+            "link": "cookeatshare.com/recipes/b-l-t-potato-bites-72688",
+            "similarity_score": 0.5951719880104065
+        },
+        {
+            "title": "Baked Potato Fans",
+            "directions": "[\"Heat oven to 375F.\", \"Make 7 to 9 diagonal cuts in top of each potato, cutting about 3/4 of the way into potato.\", \"Place on baking sheet sprayed with cooking spray.\", \"Spread slices of 1 potato apart; drizzle with 1 Tbsp.\", \"dressing.\", \"Repeat with remaining potatoes and dressing.\", \"Bake 1 hour or until potatoes are tender.\", \"Top with cheese.\"]",
+            "link": "www.kraftrecipes.com/recipes/baked-potato-fans-88898.aspx",
+            "similarity_score": 0.586902916431427
+        },
+        {
+            "title": "Grilled Cheese and Egg Sandwich",
+            "directions": "[\"Spread the butter on the outside surface of a bread slice and place it on a cold pan.\", \"Start putting the content of sandwich on the surface of the unbuttered side of the bread in order; 1 slice of cheddar cheese, scrambled eggs, 1 slice of tomato, 1 leaf of lettuce and 1 slice of cheddar cheese.\", \"Do the same step 1 to the other bread but this will be the top of the sandwich.\", \"Turn on the heat to medium to avoid burnt toast and wait until the cheese melted.\", \"Once the bottom cheese is melted, turn the sandwich upside down for the other cheese to be melted.\"]",
+            "link": "cookpad.com/us/recipes/348711-grilled-cheese-and-egg-sandwich",
+            "similarity_score": 0.5825902819633484
+        },
+        {
+            "title": "Mom'S Economy Soup",
+            "directions": "[\"Peel potatoes and onions.\", \"Cube potatoes and chop onions into cooking pan, add rice.\", \"Cover with water and cook until done.\", \"Add tomato juice, margarine and salt.\", \"Simmer until juice is cooked into the broth well.\", \"If desired, additional vegetables may be added.\"]",
+            "link": "www.cookbooks.com/Recipe-Details.aspx?id=356213",
+            "similarity_score": 0.5594384074211121
+        }
+    ]
+}
