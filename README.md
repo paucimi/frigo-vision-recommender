@@ -70,5 +70,5 @@ El sistema mantiene la persistencia mediante una base de datos SQLite con la sig
 ---
 
 ## 👥 Colaboradores / Contributors
-* **Paola León** - AI & Vision Lead
-* **Isabel Castrejon, David RH, Julio Cesar, JositoRené** - Data Engineering & API Integration
+* **Paola León** 
+
